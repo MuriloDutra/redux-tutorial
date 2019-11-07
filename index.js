@@ -1,4 +1,4 @@
-import { addTodo } from './actions/action'
+//import { addTodo } from './actions/action'
 
 function dispara(){
     console.log('FOI CHAMADO')
